@@ -18,6 +18,6 @@ Estudante de Desenvolvimento Android Nativo, focado em construir interfaces mode
 ---
 
 ## 📊 Estatísticas
-![Stats de Anderson](https://github-readme-stats.vercel.app/api?username=AndersonTatsuno&show_icons=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonTatsuno&layout=compact&theme=radical&hide=html,css)
+[![Status do Anderson](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AndersonTatsuno/github-readme-stats)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andersontatsuno&layout=compact&theme=radical&hide=html,css)
 
