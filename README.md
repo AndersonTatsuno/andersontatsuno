@@ -2,22 +2,12 @@
 
 ### Desenvolvedor Android (Kotlin | Java) 📱
 
-Estudante de Desenvolvimento Android Nativo, focado em construir interfaces modernas e performáticas. Atualmente dedicando meus estudos a Clean Architecture e às novas ferramentas do Jetpack.
+Estudante de Desenvolvimento Android Nativo, focado em construir interfaces modernas e performáticas. Atualmente dedicando meus estudos às novas ferramentas do Jetpack.
 
 ---
 
-## 🛠 Minha Stack Android
-* **Linguagens:** Kotlin, Java
-* **Interface (UI):** Jetpack Compose, XML/ViewBinding
-* **Arquitetura:** MVVM, Repository Pattern
-* **Banco de Dados:** SQLite (Room em breve)
-
-## 🌱 No meu radar (Estudando agora)
-* Consumo de APIs (Retrofit), Injeção de Dependência (Hilt) e Testes Unitários.
-
----
+## 🛠 Minha Stack
+[![Minhas Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,postgres)](https://skillicons.dev)
 
 ## 📊 Estatísticas
-[![Status do Anderson](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AndersonTatsuno/github-readme-stats)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andersontatsuno&layout=compact&theme=radical&hide=html,css)
-
+![Streak de Anderson](https://github-readme-streak-stats.herokuapp.com/?user=AndersonTatsuno&theme=transparent&locale=pt_br)
